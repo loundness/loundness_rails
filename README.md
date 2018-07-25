@@ -1,24 +1,7 @@
-# README
+# README de Loundness
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Application Rails pour mettre des utilisateurs et des likes sur des commentaires.
 
-Things you may want to cover:
+* version de Ruby: 2.5.1
+* verison de rails: 5.2.0
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
